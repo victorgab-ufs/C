@@ -1,0 +1,11 @@
+Linguagem de baixo nível (mais próxima do código de máquina)
+
+Multiplataforma
+
+Utilizada no kernel (ponte software-máquina) do linux (núcleo do android)
+
+Compilada: gera arquivo binário
+
+Sem coletor de lixo: devemos gerenciar a memória manualmente
+
+Arduino
