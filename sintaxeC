@@ -1,0 +1,43 @@
+\n QUEBRA DE LINHA
+
+declarar variável (int x; float y)
+
+Operadores aritméticos: +, -, *, /, %
+
+Entrada: scanf("%d", &variavel)
+%f float (mascara)
+
+& (indica o endereço em que a variavel será guardada)
+
+Saída: printf("%d", variavel)
+
+int main (void) {
+
+return 0;
+
+}
+
+%.1f (1 casa decimal)
+
+Operadores lógicos:
+
+AND &&
+OR ||
+>
+<
+>=
+<=
+==
+
+Condicionais:
+
+if (1>=2) {}
+else if (condição) {} aninhado ao if (condição além da do if)
+else (){}
+
+LOOP FOR:
+
+for (int i = 0; i < N; i++){}
+
+i+=2
+
