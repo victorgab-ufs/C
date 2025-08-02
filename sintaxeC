@@ -39,6 +39,8 @@ LOOP FOR:
 
 for (int i = 0; i < N; i++){}
 
+while (condicional){}
+
 i+=2 (soma a cada volta)
 i-=2 (subtrai...)
 i*=2 (multiplica...)
