@@ -6,6 +6,8 @@ Operadores aritméticos: +, -, *, /, %
 
 Entrada: scanf("%d", &variavel)
 %f float (mascara)
+%c caracter
+%s lista de caracteres
 
 & (indica o endereço em que a variavel será guardada)
 
