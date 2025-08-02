@@ -9,3 +9,8 @@ Compilada: gera arquivo binário
 Sem coletor de lixo: devemos gerenciar a memória manualmente
 
 Arduino
+
+int = inteiros(2 bytes)
+float = decimais curtos(4 bytes)
+double = decimais precisos(8 bytes)
+
