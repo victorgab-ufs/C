@@ -49,6 +49,10 @@ i/=2 (divide...)
 
 i++    i--   (alteram 1 unidade)
 
+char(caracteres) 
+strings em C são uma lista de caracteres
 
+char nome[tamanho+1]; (último é um vazio)
+gets(nome); ---> get string
 
 
